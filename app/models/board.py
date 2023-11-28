@@ -25,3 +25,4 @@ class Board(db.Model):
         )
         return new_board
     
+    
