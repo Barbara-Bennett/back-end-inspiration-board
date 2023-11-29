@@ -1,3 +1,6 @@
+# Accessing the Web Application
+[https://inspiration--board-bd6c80601d83.herokuapp.com/](https://inspiration--board-bd6c80601d83.herokuapp.com/)
+
 # Inspiration Board: Back-end Layer
 
 This scaffold includes the following:
